@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basics\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basics\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Basics\\Base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\test.txt",
+              "RelativeDocumentMoniker": "Basics\\test.txt",
+              "ToolTip": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\test.txt",
+              "RelativeToolTip": "Basics\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T13:50:27.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Basics\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Basics\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:49:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Base.cs",
+              "RelativeDocumentMoniker": "Basics\\Base.cs",
+              "ToolTip": "C:\\Users\\Rustam Shrestha\\OneDrive - Tribhuvan University\\Documents\\source codes\\Basics\\Base.cs",
+              "RelativeToolTip": "Basics\\Base.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:12:50.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

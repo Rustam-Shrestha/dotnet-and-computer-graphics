@@ -1,0 +1,44 @@
+using System;
+namespace Multilevel
+{
+ class Program
+ {
+ public int dim1, dim2;
+ public void ReadDimension(int dim1, int dim2)
+ {
+ this.dim1 = dim1;
+ this.dim2 = dim2;
+ }
+ }
+ class Rectangle : Program
+ {
+ 
+ public void AreaRec()
+ {
+ base.ReadDimension(10, 5);
+ int area = base.dim1 * base.dim2;
+ Console.WriteLine("Area of rectangle is=" + area);
+ }
+ 
+ }
+ class Trangle : Program
+ {
+ public void AreaTri()
+ {
+ base.ReadDimension(10, 5);
+ double area = 0.5 * base.dim1 * base.dim2;
+ Console.WriteLine("The area of Trangle is=" + area);
+ }
+ }
+ class Inheritance
+ {
+ static void Main(string[] args)
+ {
+ Trangle tri = new Trangle();
+ tri.AreaTri();
+ Rectangle rec = new Rectangle();
+ rec.AreaRec();
+ Console.ReadLine();
+ }
+ }
+}

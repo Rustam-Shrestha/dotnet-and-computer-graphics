@@ -1,0 +1,7 @@
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\bin\Debug\Basics.exe.config
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\bin\Debug\Basics.exe
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\bin\Debug\Basics.pdb
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\obj\Debug\Basics.csproj.AssemblyReference.cache
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\obj\Debug\Basics.exe
+C:\Users\Rustam Shrestha\OneDrive - Tribhuvan University\Documents\source codes\Basics\obj\Debug\Basics.pdb
